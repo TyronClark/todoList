@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(68, 90, 137, 1);
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    color: rgba(191, 69, 12, 1);
+    font-size: 3.4em;
+    text-align: center;
+    text-shadow: 2px 2px 3px black;
+}
+
+ul {
+    list-style-type: none;
+    color: white;
+    padding: 1rem;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-starta;
+}
+
+.container {
+    margin: auto;
+    width: 55%;
+    border: 3px solid black;
+    padding: 1rem;
+}
