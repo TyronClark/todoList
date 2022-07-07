@@ -26,8 +26,12 @@ li {
 }
 
 img {
-    width: 2em;
-    display: inline;
+    width: 1.1em;
+    
+    float: right;
+    
+    position: relative;
+    bottom: 17px;
 }
 
 .container {
